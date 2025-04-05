@@ -3,7 +3,7 @@ from gtts import gTTS
 from moviepy import AudioFileClip, TextClip, CompositeVideoClip, concatenate_videoclips, ImageClip
 import textwrap
 
-open_ai_api_key = "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"
+open_ai_api_key = ""
 image_directory = "/home/gmohit/Pictures/images"
 hi_text = """भारत सरकार ने 1 फरवरी 2025 को वित्त वर्ष 2025-26 के लिए बजट प्रस्तुत किया, जिसमें मध्यम वर्ग की क्रय शक्ति बढ़ाने, समावेशी विकास को प्रोत्साहित करने और निजी निवेश को बढ़ावा देने पर विशेष ध्यान दिया गया है। बजट के प्रमुख बिंदु निम्नलिखित हैं:
 
